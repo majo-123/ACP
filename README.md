@@ -18,7 +18,7 @@ and provides detailed insights into inventory trends for better decision-making.
 
 **Dynamic Data Handling:** Widgets like Treeview display inventory data dynamically, while forms and buttons allow updates in real time.
 
-# Chosen Sustainable Development Goal (SDG)
+# III. Chosen Sustainable Development Goal (SDG)
     
 This project aligns with Sustainable Development Goal (SDG) 12: Responsible Consumption and Production by:
 
