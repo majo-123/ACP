@@ -31,6 +31,5 @@ This project aligns with Sustainable Development Goal (SDG) 12: Responsible Cons
 # IV. Instructions for Running the Program
 To run the Order Stock Management System, follow these step: 
 
-# FINAL PROJECT
-DGCFUDGCID
+
 
